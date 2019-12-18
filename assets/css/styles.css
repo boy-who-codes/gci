@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Girassol&display=swap');
+.footer{
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#232020;
+    color: #fff;
+    font-family: 'Girassol', cursive;
+}
+.footer a{
+    color: #fff;
+    text-decoration: none;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
